@@ -4,7 +4,7 @@
 
 <!-- Banner with Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi+I'm+Md.+Zahidul+Islam;MERN+Stack+Developer;Full-Stack+Web+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi+I'm+Md.+Zahidul+Islam;MERN+Stack+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
