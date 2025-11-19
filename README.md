@@ -27,7 +27,7 @@ A passionate **MERN-Stack Web Developer** crafting **modern, fast, and visually 
 
 ### 🔥 My Skill Badges
 
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,react,mongodb,nodejs,expressjs,firebase,figma)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,react,mongodb,nodejs,expressjs,firebase,figma,git)
 
 
 ### ⚡ Detailed Skills
