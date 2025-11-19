@@ -1,56 +1,47 @@
-<!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi+I'm+Zahidul+Islam;Full-Stack+Web+Developer;MERN+Stack+Developer;Always+Learning+New+Things" />
+  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/1ce70de2-9920-4fa5-95d9-995e24828f09-profile_banner-480.jpeg" />
 </p>
 
-# Hi, I'm Zahidul Islam 👋
+<!-- Banner with Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi+I'm+Md.+Zahidul+Islam;MERN+Stack+Developer;Full-Stack+Web+Developer;Always+Learning+New+Things" />
+</p>
 
-A passionate **Full-Stack Web Developer** dedicated to crafting modern, fast, and visually appealing digital experiences.
+---
+
+# 👋 Hi, I'm Md. Zahidul Islam
+
+A passionate **MERN-Stack Web Developer** crafting **modern, fast, and visually stunning web applications**.  
 
 ---
 
 ## 🎯 About Me
 - 💻 MERN Stack Developer  
-- 🎨 I love creating stunning UI with **React**, **Tailwind CSS**, and **Figma**  
-- ⚡ Passionate about performance, clean code & modern web architectures  
-- 🤝 Open to collaborations, freelance work, and exciting new opportunities  
+- 🎨 UI/UX Enthusiast: **React**, **Tailwind CSS**, **Figma**  
+- ⚡ Focused on performance, clean code & modern architectures  
+- 🤝 Open to collaborations, freelance work, and exciting projects  
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 🔥 Tech Badges
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### 🔥 My Skill Badges
 
----
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,react,mongodb,nodejs,expressjs,firebase,figma)
+
 
 ### ⚡ Detailed Skills
 
 #### **Frontend**
 - HTML, CSS, Tailwind CSS  
-- JavaScript  
-- React  
-- Next.js  
-- Figma  
+- JavaScript, React, Next.js  
+- Figma & UI/UX Design  
 
 #### **Backend**
-- Node.js  
-- Express.js  
+- Node.js, Express.js  
 
 #### **Database**
-- MongoDB  
-- Firebase  
+- MongoDB, Firebase  
 
 #### **Version Control**
 - Git & GitHub  
@@ -58,29 +49,37 @@ A passionate **Full-Stack Web Developer** dedicated to crafting modern, fast, an
 ---
 
 ## 📫 Contact Me
-- ✉ **Email:** [zahidul2002year@gmail.com](mailto:zahidul2002year@gmail.com)  
-- 🐙 **GitHub:** [github.com/zahidul8](https://github.com/zahidul8)  
-- 📘 **Facebook:** [md.zahidul.islam.65224](https://facebook.com/md.zahidul.islam.65224)
+<p align="center">
+  <a href="mailto:zahidul2002year@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/zahidul8"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://facebook.com/md.zahidul.islam.65224"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
 ---
 
 ## 🌟 GitHub Stats
-![Zahidul's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidul8&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidul8&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zahidul8&show_icons=true&theme=tokyonight&hide_border=false" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidul8&layout=compact&theme=tokyonight&hide_border=false" width="45%" />
+</p>
 
 ---
 
-## 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zahidul8&theme=tokyonight)
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidul8&theme=tokyonight" />
+</p>
 
 ---
 
 ## ✨ Currently Working On
 - 🚀 Advanced **Next.js** projects  
 - 🛠 Building full-stack apps with **Node.js** & **MongoDB**  
-- 🎨 Improving UI/UX design skills  
+- 🎨 Improving **UI/UX design skills**  
 
 ---
 
-Thanks for visiting my profile! 😄
+Thanks for visiting my profile! 😄  
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
+</p>
