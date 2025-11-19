@@ -33,17 +33,17 @@ A passionate **MERN-Stack Web Developer** crafting **modern, fast, and visually 
 ### ⚡ Detailed Skills
 
 #### **Frontend**
-- HTML, CSS, Tailwind CSS  
-- JavaScript, React, Next.js  
-- Figma & UI/UX Design  
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,tailwind,react,nextjs,figma) 
 #### **Backend**
-- Node.js, Express.js  
-
+ 
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs)
 #### **Database**
 - MongoDB, Firebase  
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,firebase)
 
 #### **Version Control**
 - Git & GitHub  
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github)
 
 ---
 
