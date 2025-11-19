@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Md. Zahidul Islam - MERN Stack Developer.png" width="900%" height="500" />
+  <img src="Md. Zahidul Islam - MERN Stack Developer.png" width="90%" height="480" />
 </p>
 
 <!-- Banner with Typing Effect -->
