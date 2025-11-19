@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/1ce70de2-9920-4fa5-95d9-995e24828f09-profile_banner-480.jpeg" />
+  <img src="Md. Zahidul Islam - MERN Stack Developer.png" width="100%" height="500" />
 </p>
 
 <!-- Banner with Typing Effect -->
