@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Md. Zahidul Islam - MERN Stack Developer.png" width="100%" height="500" />
+  <img src="Md. Zahidul Islam - MERN Stack Developer.png" width="900%" height="500" />
 </p>
 
 <!-- Banner with Typing Effect -->
@@ -36,7 +36,6 @@ A passionate **MERN-Stack Web Developer** crafting **modern, fast, and visually 
 - HTML, CSS, Tailwind CSS  
 - JavaScript, React, Next.js  
 - Figma & UI/UX Design  
-
 #### **Backend**
 - Node.js, Express.js  
 
@@ -73,7 +72,7 @@ A passionate **MERN-Stack Web Developer** crafting **modern, fast, and visually 
 ---
 
 ## ✨ Currently Working On
-- 🚀 Advanced **Next.js** projects  
+- 🚀 Learning **Next.js**  
 - 🛠 Building full-stack apps with **Node.js** & **MongoDB**  
 - 🎨 Improving **UI/UX design skills**  
 
