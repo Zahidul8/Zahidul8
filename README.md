@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Md. Zahidul Islam - MERN Stack Developer.png" width="90%" height="480" />
+  <img src="gemini.png" width="90%" height="480" />
 </p>
 
 <p align="center">
